@@ -1,12 +1,12 @@
 /**
-*
-* Timothy Lewis | tim@tolewis.com
-*
-* List of Functions
-*  - Binary Search
-*  - Selection Sort
-*
-*/
+ *
+ * Timothy Lewis | tim@tolewis.com
+ *
+ * List of Functions
+ *  - Binary Search
+ *  - Selection Sort
+ *
+**/
 
 #include <stdio.h>
 #include <stdbool.h>
