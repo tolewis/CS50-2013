@@ -1,3 +1,15 @@
+/**
+ * OPTIONS:
+ *      int fputc(int c, file); //inserting 1 char at a time
+ *      
+ *      //Binary file I/O (arrays, struct)
+ *      FILE *fp;
+ *      fp=fopen("c:\\test.bin", "wb");
+ *      char x[10]="ABCDEFGHIJ";
+ *      fwrite(x, sizeof(x[0]), sizeof(x)/sizeof(x[0]), fp);
+ * 
+**/
+
 #include <stdio.h>
 
 int main ( int argc, char *argv[] )
