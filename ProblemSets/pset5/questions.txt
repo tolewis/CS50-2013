@@ -1,0 +1,19 @@
+0.  GIF - 256, JPEG - 16.7 million, BMP - 256, PNG - 16.7 million
+1.  GIF
+2.  lossy compression removes/destorys portions of the image to reduce data size, lossless does not, only compressing the file with no degredation in file quality
+3.  JPG
+4.  The index of the file location is deleted. The location in memory of the file itself is then given permission to be overwritten. The duration in which a file is overwritten is not truely known because of many variabls.
+5.  Write data over the location in memory where the file was stored, multiple times for a higher probability the file cannot be recovered. 
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
